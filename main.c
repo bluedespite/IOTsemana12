@@ -6,8 +6,8 @@ const int DHT_PIN = 15;
 const int LED_PIN = 13;
 const char* WIFI_NAME = "Wokwi-GUEST";
 const char* WIFI_PASSWORD = "";
-const int myChannelNumber = 1914951;
-const char* myApiKey = "Q35JGHUROYYFOJSL";
+const int myChannelNumber = 111111;
+const char* myApiKey = "xxxxx";
 const char* server = "api.thingspeak.com";
 
 DHTesp dhtSensor;
